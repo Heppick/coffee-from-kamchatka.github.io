@@ -76,8 +76,8 @@
 
 ### Документация
 Мы занимаемся написанием неофицальной документации Resonite для русскоязычного сообщества.
-  - [Здесь](https://github.com/coffee-from-kamchatka/Resonite-Russian-Documentation)
-  - [На сайте](/docs)
+  - [На GitHub'е](https://github.com/coffee-from-kamchatka/Resonite-Russian-Documentation)
+  - [Здесь](/docs)
 
 ### И не ограничиваемся только этими проектами
 У нас их гораздо больше.
